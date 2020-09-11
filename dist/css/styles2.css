@@ -1,0 +1,19 @@
+h1, h2, h4 {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: 'Droid Serif', Serif;
+}
+
+#about, #banner {
+  background-color: #52B2BF;
+}
+
+#mainNav{
+    font-family: 'Roboto', sans-serif;
+}
+
+#profilePic {
+    border-radius: 50%;
+}
