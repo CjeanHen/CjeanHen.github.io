@@ -6,8 +6,20 @@ p {
     font-family: 'Droid Serif', Serif;
 }
 
+ul {
+    list-style-type: none;
+}
+
+li {
+    font-size: 28px;
+}
+
 #about, #banner {
-  background-color: #52B2BF;
+  background-color: #8CB4CD;
+}
+
+#portfolio, #skills {
+    background-color: #eceff1;
 }
 
 #mainNav{
@@ -16,4 +28,8 @@ p {
 
 #profilePic {
     border-radius: 50%;
+}
+
+.portfolio-item:hover {
+    background-color: #8CB4CD;
 }
