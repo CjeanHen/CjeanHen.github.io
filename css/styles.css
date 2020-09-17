@@ -6101,7 +6101,7 @@ a.close.disabled {
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #148f77 !important;
+  background-color: #8CB4CD !important;
 }
 
 .bg-secondary {
@@ -6121,7 +6121,7 @@ button.bg-secondary:focus {
 a.bg-success:hover, a.bg-success:focus,
 button.bg-success:hover,
 button.bg-success:focus {
-  background-color: #1e7e34 !important;
+  background-color: #8CB4CD !important;
 }
 
 .bg-info {
@@ -10170,7 +10170,7 @@ h3 {
 .portfolio .portfolio-item .portfolio-item-caption {
   position: absolute;
   top: 0;
-  left: 0;
+  left: 0;git
   transition: all 0.2s ease-in-out;
   opacity: 0;
   background-color: #8CB4CD;
